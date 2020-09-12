@@ -1,8 +1,7 @@
 """
-File: pyramid.py
+File: pacman.py
 ----------------
-YOUR DESCRIPTION HERE
-"""
+
 
 
 import tkinter
