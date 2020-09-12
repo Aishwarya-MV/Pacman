@@ -1,7 +1,7 @@
 """
 File: pacman.py
 ----------------
-
+"""
 
 
 import tkinter
